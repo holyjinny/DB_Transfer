@@ -252,6 +252,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # custom
-Transfer_01.py
+TransferUI.py
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,windows,macos

@@ -1,6 +1,6 @@
 import sys
 from PySide6.QtWidgets import QApplication, QMainWindow
-from Transfer_01 import (
+from TransferUI import (
     Ui_MainWindow,
 )  # Qt Designer를 통해 작업한 UI 파일.py의 경로 설정
 
